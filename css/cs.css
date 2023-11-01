@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('https://oyster.ignimgs.com/mediawiki/apis.ign.com/counter-strike-2/7/77/Cs2-beginner-tips.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+div {
+	width: 500px;
+	margin-inline: auto;
+	background: #ccc;
+	padding: 10px;
+	border: 3px solid orange;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.down {
+	width: 100%;
+	background: orange;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	margin-top: 20px;
+	font-size: 22px;
+}
+
+.back {
+	padding: 10px;
+	background-color: crimson;
+	color: #fff;
+	display: inline-block;
+}

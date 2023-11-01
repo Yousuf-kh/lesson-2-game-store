@@ -1,0 +1,98 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+section {
+	width: 95%;
+	margin: 0 auto;
+}
+
+body {
+	background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?c=16x9&q=h_720,w_1280,c_fill');
+	background-size: cover;
+	background-attachment: fixed;
+}
+.header {
+	color: #fff;
+	font-size: 60px;
+	text-align: center;
+	padding: 25px;
+}
+
+div {
+	width: 400px;
+	display: inline-block;
+	margin: 10px;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+}
+.cs2 {
+	border: 3px solid rgb(218, 142, 0);
+	padding: 10px;
+	background: #ccc;
+}
+
+.cs2 h1 {
+	color: rgb(195, 127, 0);
+	text-decoration: none;
+	padding: 10px 0;
+}
+
+.dota2 {
+	border: 3px solid brown;
+	padding: 10px;
+	background-color: #ecbebe;
+}
+
+.dota2 h1 {
+	color: brown;
+	padding: 10px 0px;
+}
+
+.mw2 {
+	border: 3px solid green;
+	padding: 10px;
+	background-color: #ccc;
+}
+
+.mw2 h1 {
+	color: green;
+	padding: 10px 0px;
+}
+
+.cyp {
+	border: 3px solid yellow;
+	padding: 10px;
+	background-color: cyan;
+}
+
+.cyp h1 {
+	color: brown;
+}
+
+.forza {
+	border: 3px solid brown;
+	background-color: palevioletred;
+	padding: 10px;
+}
+
+.forza h1 {
+	color: rgb(31, 218, 212);
+}
+
+.spider {
+	border: 1px solid gray;
+	background-color: brown;
+	padding: 10px;
+}
+.spider h1 {
+	color: #fff;
+}

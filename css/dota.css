@@ -1,0 +1,48 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url('https://dmarket.com/blog/best-dota2-wallpapers/dota2heroes1_hu5626a5530a4f166e3ee07641bbd434cd_487182_1920x1080_resize_q100_lanczos.jpg');
+	background-position: cover;
+}
+
+div {
+	width: 500px;
+	padding: 10px;
+	border: 3px solid brown;
+	background-color: gray;
+	text-align: center;
+	margin-inline: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h1 {
+	color: brown;
+	font-size: 30px;
+	padding: 5px;
+}
+
+p {
+	padding: 5px;
+}
+
+.down {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	font-size: 20px;
+	background: brown;
+	color: #fff;
+	margin-top: 10px;
+}
+
+.back {
+	background-color: crimson;
+	color: #fff;
+	padding: 10px;
+	display: inline-block;
+}
